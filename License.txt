@@ -1,0 +1,24 @@
+ECPN SOFTWARE LICENSE AGREEMENT
+
+IMPORTANT: READ CAREFULLY
+
+This ECPN Software License Agreement ("License") is a legal agreement between you (either an individual or a single entity) and Agni Developers Association ("Licensor"), the developer of the ECPN application ("Software"). By installing, copying, downloading, accessing, or otherwise using the Software, you agree to be bound by the terms of this License. If you do not agree to the terms of this License, do not install or use the Software.
+
+GRANT OF LICENSE:
+a. The Licensor hereby grants you a revocable, non-exclusive, non-transferable, limited license to install and use the Software on a device owned or controlled by you, strictly in accordance with the terms of this License and the accompanying documentation.
+b. This License is granted for the purpose of using the functionalities provided by the Software as intended by the Licensor.
+RESTRICTIONS:
+a. You may not modify, distribute, sell, or lease the Software.
+b. You may not reverse engineer, decompile, or disassemble the Software, except to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+c. You may not use the Software for any purpose that is illegal or prohibited by this License.
+COPYRIGHT:
+All copies of the Software made hereunder must contain the same proprietary notices that appear on and in the Software. You acknowledge that no title to the intellectual property in the Software is transferred to you. Copyright and ownership rights in the Software remain in Agni Developers Association.
+UPDATES AND MAINTENANCE:
+Agni Developers Association may from time to time provide updates or modifications to the Software. This License shall apply to such updates or modifications unless such update or modification is accompanied by a separate license in which case the terms of that license will govern.
+TERMINATION:
+This License is effective until terminated. Your rights under this License will terminate automatically without notice from Agni Developers Association if you fail to comply with any term(s) of this License. Upon termination of the License, you shall cease all use of the Software and destroy all copies, full or partial, of the Software.
+LIMITATION OF LIABILITY:
+To the maximum extent permitted by applicable law, in no event shall Agni Developers Association be liable for any special, incidental, indirect, or consequential damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use of or inability to use the Software, even if Agni Developers Association has been advised of the possibility of such damages.
+MISCELLANEOUS:
+This License constitutes the entire agreement between the parties with respect to the use of the Software and supersedes all prior or contemporaneous understandings regarding such subject matter. No amendment to or modification of this License will be binding unless in writing and signed by Agni Developers Association.
+If you have any questions regarding this License, you may contact Agni Developers Association at [https://t.me/DevAgnii].
