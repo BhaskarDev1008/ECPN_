@@ -11,7 +11,7 @@ ECPN is a tool designed to facilitate copying, pasting, and navigation within re
 
 - **Copy Text Shortcut:** Use `Ctrl + C` or `Ctrl + Alt + C` to copy the selected text.
 
-- **Paste Text Shortcut:** Press `Ctrl + Alt + P` to paste the copied text at the current typing cursor location.
+- **Paste Text Shortcut:** Press `Ctrl + Alt + V` to paste the copied text at the current typing cursor location.
 
 ## Installation
 
