@@ -30,3 +30,6 @@ Please use this software responsibly and in accordance with your organization's 
 ## 🚀 Enjoy using ECPN! 🌟
 
 Feel free to reach out for any assistance or feedback. Happy navigating and pasting!
+
+# User Interface
+![](/UI/Screenshot.png)
